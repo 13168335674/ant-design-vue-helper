@@ -1,15 +1,15 @@
 {
-	"a-card-meta/avatar": {
+	"fa-card-meta/avatar": {
 		"description": "avatar or icon",
 		"optionType": "slot",
 		"defaultValue": "-"
 	},
-	"a-card-meta/description": {
+	"fa-card-meta/description": {
 		"description": "description content",
 		"optionType": "string|slot",
 		"defaultValue": "-"
 	},
-	"a-card-meta/title": {
+	"fa-card-meta/title": {
 		"description": "title content",
 		"optionType": "string|slot",
 		"defaultValue": "-"

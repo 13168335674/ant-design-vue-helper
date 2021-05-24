@@ -1,71 +1,71 @@
 {
-	"a-card/actions": {
+	"fa-card/actions": {
 		"description": "The action list, shows at the bottom of the Card.",
 		"optionType": "slots",
 		"defaultValue": "-"
 	},
-	"a-card/activeTabKey": {
+	"fa-card/activeTabKey": {
 		"description": "Current TabPane's key",
 		"optionType": "string",
 		"defaultValue": "-"
 	},
-	"a-card/headStyle": {
+	"fa-card/headStyle": {
 		"description": "Inline style to apply to the card head",
 		"optionType": "object",
 		"defaultValue": "-"
 	},
-	"a-card/bodyStyle": {
+	"fa-card/bodyStyle": {
 		"description": "Inline style to apply to the card content",
 		"optionType": "object",
 		"defaultValue": "-"
 	},
-	"a-card/bordered": {
+	"fa-card/bordered": {
 		"description": "Toggles rendering of the border around the card",
 		"optionType": "boolean",
 		"defaultValue": "true"
 	},
-	"a-card/cover": {
+	"fa-card/cover": {
 		"description": "Card cover",
 		"optionType": "slot",
 		"defaultValue": "-"
 	},
-	"a-card/defaultActiveTabKey": {
+	"fa-card/defaultActiveTabKey": {
 		"description": "Initial active TabPane's key, if activeTabKey is not set.",
 		"optionType": "string",
 		"defaultValue": "-"
 	},
-	"a-card/extra": {
+	"fa-card/extra": {
 		"description": "Content to render in the top-right corner of the card",
 		"optionType": "string|slot",
 		"defaultValue": "-"
 	},
-	"a-card/hoverable": {
+	"fa-card/hoverable": {
 		"description": "Lift up when hovering card",
 		"optionType": "boolean",
 		"defaultValue": "false"
 	},
-	"a-card/loading": {
+	"fa-card/loading": {
 		"description": "Shows a loading indicator while the contents of the card are being fetched",
 		"optionType": "boolean",
 		"defaultValue": "false"
 	},
-	"a-card/tabList": {
+	"fa-card/tabList": {
 		"description": "List of TabPane's head, Custom tabs can be created with the scopedSlots property",
 		"optionType": "Array<{key: string, tab: any, scopedSlots: {tab: 'XXX'}}>",
 		"defaultValue": "-"
 	},
-	"a-card/size": {
+	"fa-card/size": {
 		"options": ["default", "small"],
 		"description": "Size of card",
 		"optionType": "string",
 		"defaultValue": "default"
 	},
-	"a-card/title": {
+	"fa-card/title": {
 		"description": "Card title",
 		"optionType": "string|slot",
 		"defaultValue": "-"
 	},
-	"a-card/type": {
+	"fa-card/type": {
 		"description": "Card style type, can be set to inner or not set",
 		"optionType": "string",
 		"defaultValue": "-"

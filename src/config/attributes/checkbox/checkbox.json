@@ -1,25 +1,25 @@
 {
-	"a-checkbox/autoFocus": {
+	"fa-checkbox/autoFocus": {
 		"description": "get focus when component mounted",
 		"optionType": "boolean",
 		"defaultValue": "false"
 	},
-	"a-checkbox/checked": {
+	"fa-checkbox/checked": {
 		"description": "Specifies whether the checkbox is selected.",
 		"optionType": "boolean",
 		"defaultValue": "false"
 	},
-	"a-checkbox/defaultChecked": {
+	"fa-checkbox/defaultChecked": {
 		"description": "Specifies the initial state: whether or not the checkbox is selected.",
 		"optionType": "boolean",
 		"defaultValue": "false"
 	},
-	"a-checkbox/disabled": {
+	"fa-checkbox/disabled": {
 		"description": "Disable checkbox",
 		"optionType": "boolean",
 		"defaultValue": "false"
 	},
-	"a-checkbox/indeterminate": {
+	"fa-checkbox/indeterminate": {
 		"description": "indeterminate checked state of checkbox",
 		"optionType": "boolean",
 		"defaultValue": "false"

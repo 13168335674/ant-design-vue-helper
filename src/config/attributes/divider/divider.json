@@ -1,16 +1,16 @@
 {
-	"a-divider/dashed": {
+	"fa-divider/dashed": {
 		"description": "whether line is dashed",
 		"optionType": "Boolean",
 		"defaultValue": "false"
 	},
-	"a-divider/orientation": {
+	"fa-divider/orientation": {
 	  "options": ["left", "right", "center"],
 		"description": "position of title inside divider",
 		"optionType": "enum: left right center",
 		"defaultValue": "center"
 	},
-	"a-divider/type": {
+	"fa-divider/type": {
 	  "options": ["horizontal", "vertical"],
 		"description": "direction type of divider",
 		"optionType": "enum: horizontal vertical",

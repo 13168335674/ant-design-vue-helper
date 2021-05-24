@@ -1,55 +1,55 @@
 {
-	"a-col/offset": {
+	"fa-col/offset": {
 		"description": "the number of cells to offset Col from the left",
 		"optionType": "number",
 		"defaultValue": "0"
 	},
-	"a-col/order": {
+	"fa-col/order": {
 		"description": "raster order, used in flex layout mode",
 		"optionType": "number",
 		"defaultValue": "0"
 	},
-	"a-col/pull": {
+	"fa-col/pull": {
 		"description": "the number of cells that raster is moved to the left",
 		"optionType": "number",
 		"defaultValue": "0"
 	},
-	"a-col/push": {
+	"fa-col/push": {
 		"description": "the number of cells that raster is moved to the right",
 		"optionType": "number",
 		"defaultValue": "0"
 	},
-	"a-col/span": {
+	"fa-col/span": {
 		"description": "raster number of cells to occupy, 0 corresponds to display: none",
 		"optionType": "number",
 		"defaultValue": "none"
 	},
-	"a-col/xs": {
+	"fa-col/xs": {
 		"description": "<576px and also default setting, could be a span value or an object containing above props",
 		"optionType": "number|object",
 		"defaultValue": "-"
 	},
-	"a-col/sm": {
+	"fa-col/sm": {
 		"description": "≥576px, could be a span value or an object containing above props",
 		"optionType": "number|object",
 		"defaultValue": "-"
 	},
-	"a-col/md": {
+	"fa-col/md": {
 		"description": "≥768px, could be a span value or an object containing above props",
 		"optionType": "number|object",
 		"defaultValue": "-"
 	},
-	"a-col/lg": {
+	"fa-col/lg": {
 		"description": "≥992px, could be a span value or an object containing above props",
 		"optionType": "number|object",
 		"defaultValue": "-"
 	},
-	"a-col/xl": {
+	"fa-col/xl": {
 		"description": "≥1200px, could be a span value or an object containing above props",
 		"optionType": "number|object",
 		"defaultValue": "-"
 	},
-	"a-col/xxl": {
+	"fa-col/xxl": {
 		"description": "≥1600px, could be a span value or an object containing above props",
 		"optionType": "number|object",
 		"defaultValue": "-"

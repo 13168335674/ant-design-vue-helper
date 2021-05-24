@@ -32,4 +32,4 @@ function getAttrs(tag) {
   })
   console.dir(JSON.stringify(a))
 }
-getAttrs('a-input-number')
+getAttrs('fa-input-number')

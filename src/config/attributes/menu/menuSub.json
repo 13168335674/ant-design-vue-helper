@@ -1,20 +1,20 @@
 {
-	"a-sub-menu/children": {
+	"fa-sub-menu/children": {
 		"description": "sub menus or sub menu items",
 		"optionType": "Array<MenuItem|SubMenu>",
 		"defaultValue": ""
 	},
-	"a-sub-menu/disabled": {
+	"fa-sub-menu/disabled": {
 		"description": "whether sub menu is disabled or not",
 		"optionType": "boolean",
 		"defaultValue": "false"
 	},
-	"a-sub-menu/key": {
+	"fa-sub-menu/key": {
 		"description": "unique id of the sub menu",
 		"optionType": "string",
 		"defaultValue": ""
 	},
-	"a-sub-menu/title": {
+	"fa-sub-menu/title": {
 		"description": "title of the sub menu",
 		"optionType": "string|slot",
 		"defaultValue": ""

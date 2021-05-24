@@ -1,5 +1,5 @@
 {
-	"a-checkable-tag/checked": {
+	"fa-checkable-tag/checked": {
 		"description": "Checked status of Tag",
 		"optionType": "boolean",
 		"defaultValue": "false"

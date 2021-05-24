@@ -1,71 +1,71 @@
 {
-  "a-popover/content": {
+  "fa-popover/content": {
 		"description": "Content of the card",
 		"optionType": "string|slot|vNode",
 		"defaultValue": "-"
 	},
-	"a-popover/title": {
+	"fa-popover/title": {
 		"description": "Title of the card",
 		"optionType": "string|slot|VNode",
 		"defaultValue": "-"
 	},
-	"a-popover/arrowPointAtCenter": {
+	"fa-popover/arrowPointAtCenter": {
 		"description": "Whether the arrow is pointed at the center of target",
 		"optionType": "boolean",
 		"defaultValue": "false"
 	},
-	"a-popover/autoAdjustOverflow": {
+	"fa-popover/autoAdjustOverflow": {
 		"description": "Whether to adjust popup placement automatically when popup is off screen",
 		"optionType": "boolean",
 		"defaultValue": "true"
 	},
-	"a-popover/defaultVisible": {
+	"fa-popover/defaultVisible": {
 		"description": "Whether the floating tooltip card is visible by default",
 		"optionType": "boolean",
 		"defaultValue": "false"
 	},
-	"a-popover/getPopupContainer": {
+	"fa-popover/getPopupContainer": {
 		"description": "The DOM container of the tip, the default behavior is to create a div element in body.",
 		"optionType": "Function(triggerNode)",
 		"defaultValue": "() => document.body"
 	},
-	"a-popover/mouseEnterDelay": {
+	"fa-popover/mouseEnterDelay": {
 		"description": "Delay in seconds, before tooltip is shown on mouse enter",
 		"optionType": "number",
 		"defaultValue": "0"
 	},
-	"a-popover/mouseLeaveDelay": {
+	"fa-popover/mouseLeaveDelay": {
 		"description": "Delay in seconds, before tooltip is hidden on mouse leave",
 		"optionType": "number",
 		"defaultValue": "0.1"
 	},
-	"a-popover/overlayClassName": {
+	"fa-popover/overlayClassName": {
 		"description": "Class name of the tooltip card",
 		"optionType": "string",
 		"defaultValue": "-"
 	},
-	"a-popover/overlayStyle": {
+	"fa-popover/overlayStyle": {
 		"description": "Style of the tooltip card",
 		"optionType": "object",
 		"defaultValue": "-"
 	},
-	"a-popover/placement": {
+	"fa-popover/placement": {
 		"description": "The position of the tooltip relative to the target, which can be one of top left right bottom topLeft topRight bottomLeft bottomRight leftTop leftBottom rightTop rightBottom",
 		"optionType": "string",
 		"defaultValue": "top"
 	},
-	"a-popover/trigger": {
+	"fa-popover/trigger": {
 	  "options": ["hover", "focus", "click", "contextmenu"],
 		"description": "Tooltip trigger mode",
 		"optionType": "hover | focus | click | contextmenu",
 		"defaultValue": "hover"
 	},
-	"a-popover/visible": {
+	"fa-popover/visible": {
 		"description": "Whether the floating tooltip card is visible or not",
 		"optionType": "boolean",
 		"defaultValue": "false"
 	},
-	"a-popover/align": {
+	"fa-popover/align": {
 		"description": "this value will be merged into placement's config, please refer to the settings dom-align",
 		"optionType": "Object",
 		"defaultValue": "-"

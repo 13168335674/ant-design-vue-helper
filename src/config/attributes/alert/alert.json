@@ -1,45 +1,45 @@
 {
-	"a-alert/afterClose": {
+	"fa-alert/afterClose": {
 		"description": "Called when close animation is finished",
 		"optionType": "() => void",
 		"defaultValue": "-"
 	},
-	"a-alert/banner": {
+	"fa-alert/banner": {
 		"description": "Whether to show as banner",
 		"optionType": "boolean",
 		"defaultValue": "false"
 	},
-	"a-alert/closable": {
+	"fa-alert/closable": {
 		"description": "Whether Alert can be closed",
 		"optionType": "boolean",
 		"defaultValue": "-"
 	},
-	"a-alert/closeText": {
+	"fa-alert/closeText": {
 		"description": "Close text to show",
 		"optionType": "string|slot",
 		"defaultValue": "-"
 	},
-	"a-alert/description": {
+	"fa-alert/description": {
 		"description": "Additional content of Alert",
 		"optionType": "string|slot",
 		"defaultValue": "-"
 	},
-	"a-alert/icon": {
+	"fa-alert/icon": {
 		"description": "Custom icon, effective when showIcon is true",
 		"optionType": "vnode | slot",
 		"defaultValue": "-"
 	},
-	"a-alert/message": {
+	"fa-alert/message": {
 		"description": "Content of Alert",
 		"optionType": "string|slot",
 		"defaultValue": "-"
 	},
-	"a-alert/showIcon": {
+	"fa-alert/showIcon": {
 		"description": "Whether to show icon",
 		"optionType": "boolean",
 		"defaultValue": "false, in banner mode default is true"
 	},
-	"a-alert/type": {
+	"fa-alert/type": {
 	  "options": ["success", "info", "warning", "error"],
 		"description": "Type of Alert styles, options: success, info, warning, error",
 		"optionType": "string",
