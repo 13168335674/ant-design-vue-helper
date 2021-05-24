@@ -1,6 +1,6 @@
-# ant-design-vue-helper
+# faicomponent-helper
 
-> ant-design-vue-helper is a VS Code extension for Ant Design Vue.
+> faicomponent-helper is a VS Code extension for Ant Design Vue.
 
 
 ## Feature
@@ -46,7 +46,7 @@ Default hot key is  `shift + cmd + i`( windows: `shift + win + i`). If it has c
 
 ## Contribution
 
-Your pull request will make ant-design-vue-helper better.
+Your pull request will make faicomponent-helper better.
 
 ## LICENSE
 

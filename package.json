@@ -1,12 +1,12 @@
 {
-		"name": "vscode-ant-design-vue-helper",
-		"displayName": "Ant Design Vue helper",
-		"description": "A vscode extension for Ant-Design-Vue",
+		"name": "vscode-faicomponent-helper",
+		"displayName": "faicomponent helper",
+		"description": "A vscode extension for faicomponent",
 		"version": "1.0.6",
-		"publisher": "ant-design-vue",
+		"publisher": "adi",
 		"repository": {
 			"type": "git",
-			"url": "https://github.com/vueComponent/ant-design-vue-helper"
+			"url": "https://github.com/13168335674/vscode-faicomponent-helper"
 		},
 		"engines": {
 				"vscode": "^1.30.0"
@@ -56,7 +56,7 @@
 								},
 								"antdv-helper.link-url": {
 									"type": "string",
-									"default": "https://ant-design-vue.gitee.io"
+									"default": "http://fa.docs.aaa.cn"
 							}
 						}
 				}

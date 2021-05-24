@@ -90,7 +90,7 @@ export class App {
     const config = workspace.getConfiguration('antdv-helper');
     const linkUrl = config.get('link-url');
     const path = query.path;
-    const iframeSrc = `${linkUrl}/components/${path}`;
+    const iframeSrc = `${linkUrl}/components/${path}-cn`;
     return `
     <!DOCTYPE html>
     <html lang="en">
@@ -111,7 +111,7 @@ const HTML_CONTENT = (query: Query) => {
   const config = workspace.getConfiguration('antdv-helper');
   const linkUrl = config.get('link-url');
   const path = query.path;
-  const iframeSrc = `${linkUrl}/components/${path}`;
+  const iframeSrc = `${linkUrl}/components/${path}-cn`;
   return `
     <body style="background-color: white">
     <iframe style="position: absolute;border: none;left: 0;top: 0;width: 100%;height: 100%;" src="${iframeSrc}"></iframe>

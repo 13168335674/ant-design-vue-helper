@@ -75,7 +75,7 @@
 		"defaultValue": "filterConfirm: 'Ok' \nfilterReset: 'Reset' \nemptyText: 'No Data'\n\n"
 	},
 	"a-table/pagination": {
-		"description": "Pagination config or [Pagination] (/ant-design-vue/components/pagination/), hide it by setting it to false",
+		"description": "Pagination config or [Pagination] (/faicomponent/components/pagination/), hide it by setting it to false",
 		"optionType": "object",
 		"defaultValue": ""
 	},
